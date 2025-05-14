@@ -1,0 +1,51 @@
+Prezados,
+
+Segue abaixo o relatório consolidado de reclamações registradas na Ouvidoria no período de [inserir período], com análise segmentada por área de atuação.
+
+Panorama Geral
+[Comentário geral sobre variação percentual ou volume total de reclamações entre os meses comparados.]
+
+Destaques positivos e pontos de atenção foram identificados por segmento, conforme detalhado a seguir.
+
+Segmento: [NOME DO SEGMENTO]
+Participação no total de reclamações acumuladas: [xx.xx]%
+
+Variação mensal: [Informar se houve aumento ou redução no volume de reclamações.]
+
+Principais movimentações por natureza:
+
+Natureza: [NOME DA NATUREZA]
+
+Variação: [Informar se melhorou ou piorou, com percentual e volume]
+
+Motivos:
+
+[Motivo 1]: [Melhorou/piorou], de [x] para [y]
+
+[Motivo 2]: [Melhorou/piorou], de [x] para [y]
+
+[Repetir essa estrutura para outras naturezas relevantes.]
+
+Segmento: [NOME DO SEGMENTO]
+Participação no total de reclamações acumuladas: [xx.xx]%
+
+Variação mensal: [Resumo da variação]
+
+Principais movimentações por natureza:
+
+Natureza: [Nome]
+
+Variação: [Melhoria/Piora]
+
+Motivos:
+
+[Motivo]: [Comentário]
+
+Considerações Finais
+Algumas naturezas e motivos apresentaram melhora significativa, refletindo avanços nos processos e respostas ao cliente.
+
+Por outro lado, foram identificadas áreas com aumento no volume de reclamações, que demandam atenção e ações específicas.
+
+Permanecemos à disposição para esclarecimentos adicionais e discussões sobre possíveis planos de ação.
+
+Atenciosamente,
